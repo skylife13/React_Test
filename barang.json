@@ -1,0 +1,29 @@
+{
+  "barang": [
+    {
+      "name": "barang3",
+      "beli": "15",
+      "jual": "15",
+      "stok": "15",
+      "id": "e80927870ea"
+    },
+    {
+      "name": "coca",
+      "beli": "12",
+      "jual": "12",
+      "stok": "12",
+      "id": "8a5957bd01c"
+    },
+    {
+      "id": "46b5cc863b4",
+      "name": "ben",
+      "beli": "12",
+      "jual": "12",
+      "stok": "12"
+    },
+    {
+      "id": "a8c2f794652",
+      "name": "cola"
+    }
+  ]
+}
